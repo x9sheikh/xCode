@@ -1,1 +1,2 @@
 Ready GIt Bash
+Ready for visual studio code
