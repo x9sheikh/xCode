@@ -1,5 +1,0 @@
-________________25May2019___________________
-
-Demo of my Project x9sheikh.pythonanywhere.com
-Link of xCode https://github.com/x9sheikh/xCode
-Setup of How to Basic setup of Django
